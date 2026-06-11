@@ -4,12 +4,13 @@
 
 Accepted by IEEE Transactions on Consumer Electronics (TCE), 2026
 
-<div align="center">
-    <img src="img/teaser_m.gif" alt="teaser" />
+<p align="center">
+  <img src="img/teaser_m.gif" alt="teaser" />
+</p>
 
-</div>
-
-(EM-Depth* + NimbleD)
+<p align="center">
+  <strong>EM-Depth* + NimbleD</strong>
+</p>
 
 ## Results 
 | Method | Data Augmentation | Resolution| Train | Train Images | AbsRel | δ < 1.25<sup>1</sup> |
