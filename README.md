@@ -4,9 +4,11 @@
 
 Accepted by IEEE Transactions on Consumer Electronics (TCE), 2026
 
-<img src="./img/teaser_m.gif" width="100%" alt="teaser" align=center />
+<div align="center">
+    <img src="./img/teaser_m.gif" alt="teaser" />
+</div>
 
-(EM-Depth*+NimbleD)
+(EM-Depth* + NimbleD)
 
 
 ## Results 
